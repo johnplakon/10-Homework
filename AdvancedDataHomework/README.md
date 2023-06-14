@@ -144,4 +144,3 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 ## Copyright
 
-Data Boot Camp ©2019. All Rights Reserved.
